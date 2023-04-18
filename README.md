@@ -1,1 +1,1 @@
-# app-silence-test.zip
+# app-silence-test
